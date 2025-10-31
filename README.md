@@ -18,3 +18,7 @@ A Übersicht widget that displays current and upcoming games for:
 2. Install dependencies via Homebrew:
    ```bash
    brew install coreutils jq curl
+
+## 🖼️ Preview
+
+![Sports Scores Widget Preview](./screenshot.png)
