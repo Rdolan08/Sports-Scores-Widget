@@ -19,12 +19,8 @@ A Übersicht widget that displays current and upcoming games for:
    ```bash
    brew install coreutils jq curl
 
-## 🖼️ Preview
+## 🖼️ Preview (MacOS)
 
-![Sports Scores Widget Preview](./screenshot.png)
-
-## 🖼️ Preview
-
-<p align="center">
-  <img src="./screenshot.png" alt="Sports Scores Widget Preview" width="25%">
+<p align="left">
+  <img src="./screenshot.png" alt="Sports Scores Widget Preview" width="50%">
 </p>
