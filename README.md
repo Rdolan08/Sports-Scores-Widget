@@ -22,3 +22,9 @@ A Übersicht widget that displays current and upcoming games for:
 ## 🖼️ Preview
 
 ![Sports Scores Widget Preview](./screenshot.png)
+
+## 🖼️ Preview
+
+<p align="center">
+  <img src="./screenshot.png" alt="Sports Scores Widget Preview" width="25%">
+</p>
