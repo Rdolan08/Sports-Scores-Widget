@@ -259,7 +259,7 @@ style: """
   white-space: pre-wrap
   overflow-y: auto
   overflow-x: hidden
-  max-height: 240px
+  max-height: 178px
 scrollbar-width: none;
 -ms-overflow-style: none;
 
