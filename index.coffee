@@ -256,9 +256,10 @@ style: """
   border-radius: 20px
   box-shadow: 0 4px 12px rgba(0,0,0,0.3)
   line-height: 1.6
-  white-space: pre
+  white-space: pre-wrap
   overflow-y: auto
-  max-height: 180px
+  overflow-x: hidden
+  max-height: 178px
 .header {
   font-size: 18px;
   font-weight: bold;
