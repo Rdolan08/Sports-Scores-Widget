@@ -259,7 +259,13 @@ style: """
   white-space: pre-wrap
   overflow-y: auto
   overflow-x: hidden
-  max-height: 178px
+  max-height: 240px
+  scrollbar-width: none
+  -ms-overflow-style:none
+  }
+  ::-webkit-scrollbar {
+    display: none;
+}
 .header {
   font-size: 18px;
   font-weight: bold;
